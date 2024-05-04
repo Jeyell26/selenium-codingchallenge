@@ -1,6 +1,10 @@
 # selenium-codingchallenge
 This is for the selenium coding challenge. Here, we test the login functionality of https://www.saucedemo.com/
-The browser used for the challenge is Opera
+The browser used for the challenge is Opera, IDE is VSCode, with Maven.
+Java JDK versions:
+openjdk version "21.0.3" 2024-04-16 LTS
+OpenJDK Runtime Environment Temurin-21.0.3+9 (build 21.0.3+9-LTS)
+OpenJDK 64-Bit Server VM Temurin-21.0.3+9 (build 21.0.3+9-LTS, mixed mode, sharing)
 
 Instructions are as follows:
 
